@@ -48,7 +48,6 @@ Where ```SEMANTIC``` and ```EMOJI``` refer to the character of the commit, follo
   </ul>
 </details>
 
-
 <details>
 <summary><h3>Emojis 🤪</h3></summary>
 

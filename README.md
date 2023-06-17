@@ -45,19 +45,16 @@ Where ```SEMANTIC``` and ```EMOJI``` refer to the character of the commit, follo
 - **[REFACTOR]**: Involves refactoring the code, meaning restructuring or optimizing it without adding new features or fixing bugs.
 - **[FEAT]**: Introduces new features or implements significant changes to the codebase.
 
-### Emojis 🤪:
+<summary><h3>Emojis 🤪</h3></summary>
 
 _Emojis ideas and meanings where taken in [this project](https://gitmoji.dev/)._
 
-<details>
-
-<summary><h3>Título do dropdown</h3></summary>
-
 <table>
   <tr>
-    <th>Coluna 1</th>
-    <th>Coluna 2</th>
+    <td>Emoji</th>
+    <td>Meaning</th>
   </tr>
+
   <tr>
     <td>Dado 1</td>
     <td>Dado 2</td>
@@ -70,70 +67,69 @@ _Emojis ideas and meanings where taken in [this project](https://gitmoji.dev/)._
 </table>
 </details>
 
-| Emoji | Meaning |
-| --- | --- |
-|🎨|Improving structure / format of the code.|
-|⚡️|Improving performance.|
-|🔥|Removing code or files.|
-|🐛|Fixing a bug.|
-|🚑|Critical hotfix.|
-|✨|Introducing new features.|
-|📝|Writing docs.|
-|🚀|Deploying stuff.|
-|💄|Updating the UI and style files.|
-|🎉|Initial commit.|
-|✅|Updating tests.|
-|🔒|Fixing security issues.|
-|🍎|Fixing something on macOS.|
-|🐧|Fixing something on Linux.|
-|🏁|Fixing something on Windows.|
-|🤖|Fixing something on Android.|
-|🍏|Fixing something on iOS.|
-|🔖|Releasing / Version tags.|
-|🚨|Removing linter warnings.|
-|🚧|Work in progress.|
-|💚|Fixing CI Build.|
-|⬇️|Downgrading dependencies.|
-|⬆️|Upgrading dependencies.|
-|📌|Pinning dependencies to specific versions.|
-|👷|Adding CI build system.|
-|📈|Adding analytics or tracking code.|
-|♻️|Refactoring code.|
-|🐳|Work about Docker.|
-|➕|Adding a dependency.|
-|➖|Removing a dependency.|
-|🔧|Changing configuration files.|
-|🌐|Internationalization and localization.|
-|✏️|Fixing typos.|
-|💩|Writing bad code that needs to be improved.|
-|⏪|Reverting changes.|
-|🔀|Merging branches.|
-|📦|Updating compiled files or packages.|
-|👽|Updating code due to external API changes.|
-|🚚|Moving or renaming files.|
-|📄|Adding or updating license.|
-|💥|Introducing breaking changes.|
-|🍱|Adding or updating assets.|
-|👌|Updating code due to code review changes.|
-|♿️|Improving accessibility.|
-|💡|Documenting source code.|
-|🍻|Writing code drunkenly.|
-|💬|Updating text and literals.|
-|🗃|Performing database related changes.|
-|🔊|Adding logs.|
-|🔇|Removing logs.|
-|👥|Adding contributor(s).|
-|🚸|Improving user experience / usability.|
-|🏗|Making architectural changes.|
-|📱|Working on responsive design.|
-|🤡|Mocking things.||
-|🥚|Adding an easter egg.|
-|🙈|Adding or updating a .gitignore file.|
-|📸|Adding or updating snapshots.|
-|⚗|Experimenting new things.|
-|🔍|Improving SEO.|
-|☸️|Work about Kubernetes.|
-|🏷️|Adding or updating types (Flow, TypeScript).|
+
+<td>🎨<td>Improving structure / format of the code.<td>
+<td>⚡️<td>Improving performance.<td>
+<td>🔥<td>Removing code or files.<td>
+<td>🐛<td>Fixing a bug.<td>
+<td>🚑<td>Critical hotfix.<td>
+<td>✨<td>Introducing new features.<td>
+<td>📝<td>Writing docs.<td>
+<td>🚀<td>Deploying stuff.<td>
+<td>💄<td>Updating the UI and style files.<td>
+<td>🎉<td>Initial commit.<td>
+<td>✅<td>Updating tests.<td>
+<td>🔒<td>Fixing security issues.<td>
+<td>🍎<td>Fixing something on macOS.<td>
+<td>🐧<td>Fixing something on Linux.<td>
+<td>🏁<td>Fixing something on Windows.<td>
+<td>🤖<td>Fixing something on Android.<td>
+<td>🍏<td>Fixing something on iOS.<td>
+<td>🔖<td>Releasing / Version tags.<td>
+<td>🚨<td>Removing linter warnings.<td>
+<td>🚧<td>Work in progress.<td>
+<td>💚<td>Fixing CI Build.<td>
+<td>⬇️<td>Downgrading dependencies.<td>
+<td>⬆️<td>Upgrading dependencies.<td>
+<td>📌<td>Pinning dependencies to specific versions.<td>
+<td>👷<td>Adding CI build system.<td>
+<td>📈<td>Adding analytics or tracking code.<td>
+<td>♻️<td>Refactoring code.<td>
+<td>🐳<td>Work about Docker.<td>
+<td>➕<td>Adding a dependency.<td>
+<td>➖<td>Removing a dependency.<td>
+<td>🔧<td>Changing configuration files.<td>
+<td>🌐<td>Internationalization and localization.<td>
+<td>✏️<td>Fixing typos.<td>
+<td>💩<td>Writing bad code that needs to be improved.<td>
+<td>⏪<td>Reverting changes.<td>
+<td>🔀<td>Merging branches.<td>
+<td>📦<td>Updating compiled files or packages.<td>
+<td>👽<td>Updating code due to external API changes.<td>
+<td>🚚<td>Moving or renaming files.<td>
+<td>📄<td>Adding or updating license.<td>
+<td>💥<td>Introducing breaking changes.<td>
+<td>🍱<td>Adding or updating assets.<td>
+<td>👌<td>Updating code due to code review changes.<td>
+<td>♿️<td>Improving accessibility.<td>
+<td>💡<td>Documenting source code.<td>
+<td>🍻<td>Writing code drunkenly.<td>
+<td>💬<td>Updating text and literals.<td>
+<td>🗃<td>Performing database related changes.<td>
+<td>🔊<td>Adding logs.<td>
+<td>🔇<td>Removing logs.<td>
+<td>👥<td>Adding contributor(s).<td>
+<td>🚸<td>Improving user experience / usability.<td>
+<td>🏗<td>Making architectural changes.<td>
+<td>📱<td>Working on responsive design.<td>
+<td>🤡<td>Mocking things.<td><td>
+<td>🥚<td>Adding an easter egg.<td>
+<td>🙈<td>Adding or updating a .gitignore file.<td>
+<td>📸<td>Adding or updating snapshots.<td>
+<td>⚗<td>Experimenting new things.<td>
+<td>🔍<td>Improving SEO.<td>
+<td>☸️<td>Work about Kubernetes.<td>
+<td>🏷️<td>Adding or updating types (Flow, TypeScript).<td>
 
 ## Tools I use 🛠️: 
 

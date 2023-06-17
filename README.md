@@ -31,7 +31,7 @@ My commits in projects are made using the following formula:
 
 	git commit -m '[EMOJI SEMANTIC]: description message'
 
-Where ```SEMANTIC``` and ```EMOJI``` refer to the character of the commit, following the pattern of the documentation below:
+Where ```SEMANTIC``` and ```EMOJI``` refers to the commits intention, following the pattern of the documentation below:
 
 <details>
   <summary><h3>Semantics 💭</h3></summary>

@@ -33,17 +33,20 @@ My commits in projects are made using the following formula:
 
 Where ```SEMANTIC``` and ```EMOJI``` refer to the character of the commit, following the pattern of the documentation below:
 
-### Semantics 💭:
-
-- **[TEST]**: Is related to testing changes or adding new tests to the codebase.
-- **[DOCS]**: Involves documentation changes, such as updating or adding documentation.
-- **[PERF]**: Focuses on performance improvements in the code.
-- **[CHORE]**: Includes changes that are related to general maintenance tasks, such as updating dependencies or configuring build tools.
-- **[STYLE]**: Pertains to code style changes, such as formatting or renaming variables.
-- **[BUILD]**: Involves modifications to the build system or external dependencies.
-- **[FIX]**: Addresses bug fixes or resolves issues in the codebase.
-- **[REFACTOR]**: Involves refactoring the code, meaning restructuring or optimizing it without adding new features or fixing bugs.
-- **[FEAT]**: Introduces new features or implements significant changes to the codebase.
+<select>
+  <option value="" disabled selected>Select a category</option>
+  <optgroup label="Semantics 💭">
+    <option value="[TEST]">[TEST]: Is related to testing changes or adding new tests to the codebase.</option>
+    <option value="[DOCS]">[DOCS]: Involves documentation changes, such as updating or adding documentation.</option>
+    <option value="[PERF]">[PERF]: Focuses on performance improvements in the code.</option>
+    <option value="[CHORE]">[CHORE]: Includes changes that are related to general maintenance tasks, such as updating dependencies or configuring build tools.</option>
+    <option value="[STYLE]">[STYLE]: Pertains to code style changes, such as formatting or renaming variables.</option>
+    <option value="[BUILD]">[BUILD]: Involves modifications to the build system or external dependencies.</option>
+    <option value="[FIX]">[FIX]: Addresses bug fixes or resolves issues in the codebase.</option>
+    <option value="[REFACTOR]">[REFACTOR]: Involves refactoring the code, meaning restructuring or optimizing it without adding new features or fixing bugs.</option>
+    <option value="[FEAT]">[FEAT]: Introduces new features or implements significant changes to the codebase.</option>
+  </optgroup>
+</select>
 
 <details>
 <summary><h3>Emojis 🤪</h3></summary>

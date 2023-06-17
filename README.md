@@ -8,6 +8,7 @@
 
 ## About 🤔:
 
+Here, you'll find my workflow, commits and other things description guidelines on GitHub. It covers topics such as my preferred workflow, commit message guidelines, and best practices. Explore the file for a comprehensive understanding of how I work on GitHub.
 
 ### Let's Connect 😎 👍!
 
@@ -23,32 +24,6 @@ Thank you for visiting my GitHub profile! I'm excited to connect with fellow dev
 ## Work Process 💪:
 
 As a programmer, I follow a systematic and efficient work process that allows me to deliver high-quality software solutions. Here's a glimpse into my typical workflow:
-
-Understanding the requirements: I begin by thoroughly understanding the project requirements, ensuring clarity and alignment with stakeholders.
-
-### Design and planning: 
-
-I carefully design the architecture and plan the implementation strategy, considering scalability, maintainability, and performance.
-
-### Coding: 
-
-With the plan in place, I dive into coding, leveraging my expertise in various programming languages and frameworks. I maintain clean and readable code, following industry best practices and coding standards.
-
-### Testing and debugging: 
-
-Quality is of utmost importance to me, so I extensively test my code, using both manual and automated testing techniques. I pay attention to edge cases and handle exceptions gracefully, ensuring a robust and reliable application.
-
-### Collaboration and version control: 
-
-Throughout the development process, I actively engage in collaboration, working alongside other team members, sharing ideas, and leveraging version control systems like Git to manage code changes effectively.
-
-### Documentation: 
-
-I believe in the power of well-documented code. I ensure that my projects are accompanied by clear and comprehensive documentation, making it easier for other developers to understand and contribute.
-
-### Continuous learning: 
-
-Technology is constantly evolving, and I embrace this by continuously updating my skills and staying up-to-date with the latest industry trends. I enjoy learning new languages, frameworks, and tools that can enhance my development process.
 
 ## Commits ✅:
 
@@ -73,6 +48,27 @@ Where ```SEMANTIC``` and ```EMOJI``` refer to the character of the commit, follo
 ### Emojis 🤪:
 
 _Emojis ideas and meanings where taken in [this project](https://gitmoji.dev/)._
+
+<details>
+
+<summary><h3>Título do dropdown</h3></summary>
+
+<table>
+  <tr>
+    <th>Coluna 1</th>
+    <th>Coluna 2</th>
+  </tr>
+  <tr>
+    <td>Dado 1</td>
+    <td>Dado 2</td>
+  </tr>
+  <tr>
+    <td>Dado 3</td>
+    <td>Dado 4</td>
+  </tr>
+
+</table>
+</details>
 
 | Emoji | Meaning |
 | --- | --- |
@@ -139,38 +135,7 @@ _Emojis ideas and meanings where taken in [this project](https://gitmoji.dev/)._
 |☸️|Work about Kubernetes.|
 |🏷️|Adding or updating types (Flow, TypeScript).|
 
-
-<details>
-<summary>Título do dropdown</summary>
-
-Conteúdo do dropdown.
-
-Pode incluir qualquer tipo de conteúdo em Markdown aqui, como texto, listas, imagens, etc.
-
-<table>
-
-  <tr>
-    <th>Coluna 1</th>
-    <th>Coluna 2</th>
-  </tr>
-  <tr>
-    <td>Dado 1</td>
-    <td>Dado 2</td>
-  </tr>
-  <tr>
-    <td>Dado 3</td>
-    <td>Dado 4</td>
-  </tr>
-
-</table>
-
-</details>
-
-## Development Process ⚙️:
-
-Developers used [Trello]() to get things organized, each one using their own branch to code, using names to identify the commit type then merginng the features into develop branch. After testing, the group update the main branch. This application was developed in xx/xx/20xx until xx/xx/20xx.
-
-### Tools I use 🛠️: 
+## Tools I use 🛠️: 
 
 - [VScode](https://code.visualstudio.com/). 
 - 

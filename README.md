@@ -313,8 +313,6 @@ _Emojis ideas and meanings where taken in [this project](https://gitmoji.dev/)._
 ## Tools I use 🛠️: 
 
 - [VScode](https://code.visualstudio.com/). 
-- 
-- 
 
 ## Licence 📜:
 

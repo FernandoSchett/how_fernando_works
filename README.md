@@ -54,7 +54,7 @@ Technology is constantly evolving, and I embrace this by continuously updating m
 
 My commits in projects are made using the following formula:
 
-		git commit -m '[EMOJI SEMANTIC]: description message'
+	git commit -m '[EMOJI SEMANTIC]: description message'
 
 Where ```SEMANTIC``` and ```EMOJI``` refer to the character of the commit, following the pattern of the documentation below:
 
@@ -72,132 +72,99 @@ Where ```SEMANTIC``` and ```EMOJI``` refer to the character of the commit, follo
 
 ### Emojis 🤪:
 
+_Emojis ideas and meanings where taken in [this project](https://gitmoji.dev/)._
+
 | Emoji | Meaning |
 | --- | --- |
+|🎨|Improving structure / format of the code.|
+|⚡️|Improving performance.|
+|🔥|Removing code or files.|
+|🐛|Fixing a bug.|
+|🚑|Critical hotfix.|
+|✨|Introducing new features.|
+|📝|Writing docs.|
+|🚀|Deploying stuff.|
+|💄|Updating the UI and style files.|
+|🎉|Initial commit.|
+|✅|Updating tests.|
+|🔒|Fixing security issues.|
+|🍎|Fixing something on macOS.|
+|🐧|Fixing something on Linux.|
+|🏁|Fixing something on Windows.|
+|🤖|Fixing something on Android.|
+|🍏|Fixing something on iOS.|
+|🔖|Releasing / Version tags.|
+|🚨|Removing linter warnings.|
+|🚧|Work in progress.|
+|💚|Fixing CI Build.|
+|⬇️|Downgrading dependencies.|
+|⬆️|Upgrading dependencies.|
+|📌|Pinning dependencies to specific versions.|
+|👷|Adding CI build system.|
+|📈|Adding analytics or tracking code.|
+|♻️|Refactoring code.|
+|🐳|Work about Docker.|
+|➕|Adding a dependency.|
+|➖|Removing a dependency.|
+|🔧|Changing configuration files.|
+|🌐|Internationalization and localization.|
+|✏️|Fixing typos.|
+|💩|Writing bad code that needs to be improved.|
+|⏪|Reverting changes.|
+|🔀|Merging branches.|
+|📦|Updating compiled files or packages.|
+|👽|Updating code due to external API changes.|
+|🚚|Moving or renaming files.|
+|📄|Adding or updating license.|
+|💥|Introducing breaking changes.|
+|🍱|Adding or updating assets.|
+|👌|Updating code due to code review changes.|
+|♿️|Improving accessibility.|
+|💡|Documenting source code.|
+|🍻|Writing code drunkenly.|
+|💬|Updating text and literals.|
+|🗃|Performing database related changes.|
+|🔊|Adding logs.|
+|🔇|Removing logs.|
+|👥|Adding contributor(s).|
+|🚸|Improving user experience / usability.|
+|🏗|Making architectural changes.|
+|📱|Working on responsive design.|
+|🤡|Mocking things.||
+|🥚|Adding an easter egg.|
+|🙈|Adding or updating a .gitignore file.|
+|📸|Adding or updating snapshots.|
+|⚗|Experimenting new things.|
+|🔍|Improving SEO.|
+|☸️|Work about Kubernetes.|
+|🏷️|Adding or updating types (Flow, TypeScript).|
 
-- 🎨: Improving structure / format of the code.
 
-- ⚡️: Improving performance.
+<details>
+<summary>Título do dropdown</summary>
 
-- 🔥: Removing code or files.
+Conteúdo do dropdown.
 
-- 🐛: Fixing a bug.
+Pode incluir qualquer tipo de conteúdo em Markdown aqui, como texto, listas, imagens, etc.
 
-- 🚑: Critical hotfix.
+<table>
 
-- ✨: Introducing new features.
+  <tr>
+    <th>Coluna 1</th>
+    <th>Coluna 2</th>
+  </tr>
+  <tr>
+    <td>Dado 1</td>
+    <td>Dado 2</td>
+  </tr>
+  <tr>
+    <td>Dado 3</td>
+    <td>Dado 4</td>
+  </tr>
 
-- 📝: Writing docs.
+</table>
 
-- 🚀: Deploying stuff.
-
-- 💄: Updating the UI and style files.
-
-- 🎉: Initial commit.
-
-- ✅: Updating tests.
-
-- 🔒: Fixing security issues.
-
-- 🍎: Fixing something on macOS.
-
-- 🐧: Fixing something on Linux.
-
-- 🏁: Fixing something on Windows.
-
-- 🤖: Fixing something on Android.
-
-- 🍏: Fixing something on iOS.
-
-- 🔖: Releasing / Version tags.
-
-- 🚨: Removing linter warnings.
-
-- 🚧: Work in progress.
-
-- 💚: Fixing CI Build.
-
-- ⬇️: Downgrading dependencies.
-
-- ⬆️: Upgrading dependencies.
-
-- 📌: Pinning dependencies to specific versions.
-
-- 👷: Adding CI build system.
-
-- 📈: Adding analytics or tracking code.
-
-- ♻️: Refactoring code.
-
-- 🐳: Work about Docker.
-
-- ➕: Adding a dependency.
-
-- ➖: Removing a dependency.
-
-- 🔧: Changing configuration files.
-
-- 🌐: Internationalization and localization.
-
-- ✏️: Fixing typos.
-
-- 💩: Writing bad code that needs to be improved.
-
-- ⏪: Reverting changes.
-
-- 🔀: Merging branches.
-
-- 📦: Updating compiled files or packages.
-
-- 👽: Updating code due to external API changes.
-
-- 🚚: Moving or renaming files.
-
-- 📄: Adding or updating license.
-
-- 💥: Introducing breaking changes.
-
-- 🍱: Adding or updating assets.
-
-- 👌: Updating code due to code review changes.
-
-- ♿️: Improving accessibility.
-
-- 💡: Documenting source code.
-
-- 🍻: Writing code drunkenly.
-
-- 💬: Updating text and literals.
-
-- 🗃: Performing database related changes.
-
-- 🔊: Adding logs.
-
-- 🔇: Removing logs.
-
-- 👥: Adding contributor(s).
-
-- 🚸: Improving user experience / usability.
-
-- 🏗: Making architectural changes.
-
-- 📱: Working on responsive design.
-
-- 🤡: Mocking things.
-
-- 🥚: Adding an easter egg.
-
-- 🙈: Adding or updating a .gitignore file.
-
-- 📸: Adding or updating snapshots.
-
-- ⚗: Experimenting new things.
-
-- 🔍: Improving SEO.
-
-- ☸️: Work about Kubernetes.
-
-- 🏷️: Adding or updating types (Flow, TypeScript).
+</details>
 
 ## Development Process ⚙️:
 

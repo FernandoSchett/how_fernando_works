@@ -16,7 +16,7 @@ Thank you for visiting my GitHub profile! I'm excited to connect with fellow dev
 
 ## Work Process 💪:
 
-Always developing on own branch feature , using names to identify the commit type then merginng the features into ```develop``` branch. After testing, its time to update the main branch, merging the ```develop``` with ```main```.
+Always developing on own branch feature , using names to identify the commit type then merginng the features into ```develop``` branch. After testing, its time to update the main branch, merging the ```develop``` into ```main```.
 
 ## Programming practices🧑‍💻:
 

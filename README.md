@@ -20,12 +20,12 @@ Always developing on own branch feature , using names to identify the commit typ
 
 ## Programming practices🧑‍💻:
 
-- Variables: always low case, no accents and different words separated by ```_``` caracter
-- Branch Names: always low case, with different words separated by ```_``` caracter.  => ```<pourpose>_branch```
+- Variables: english, always low case, no accents and different words separated by ```_``` caracter
+- Branch Names: english, always low case, with different words separated by ```_``` caracter.  => ```<pourpose>_branch```
 
 ## Github Practices 🐱:
 
-- Github repository names: always low case, with different words separated by ```_``` caracter.
+- Github repository names: english, always low case, with different words separated by ```_``` caracter.
 - ```READ.md``` always on [this](https://github.com/FernandoSchett/github_readme_template) template.
 - Images always uploaded at _Issues_ section on repository associeted to the project. Issue name always closed and on ```<image_name>.png``` model.
  
@@ -35,7 +35,7 @@ My commits and pull requests in projects are made using the following formula:
 
 	git commit -m '[EMOJI SEMANTIC]: description message'
 
-Where ```SEMANTIC``` and ```EMOJI``` refers to the commits intention, following the pattern of the documentation below:
+Where the ```description message``` always in english, ```SEMANTIC``` and ```EMOJI``` refers to the commits intention, following the pattern of the documentation below:
 
 <details>
   <summary><h3>Semantics 💭</h3></summary>

@@ -14,20 +14,24 @@ Here, you'll find my workflow, commits and other things description guidelines o
 
 Thank you for visiting my GitHub profile! I'm excited to connect with fellow developers, collaborate on interesting projects, and contribute to the ever-growing programming community. Feel free to reach out to me via my [socials](https://linkr.bio/kjlyr), and let's embark on a journey of coding excellence together!
 
-## Summary 📝:
-
--
--
--
--
-
 ## Work Process 💪:
 
-As a programmer, I follow a systematic and efficient work process that allows me to deliver high-quality software solutions. Here's a glimpse into my typical workflow:
+Always developing on own branch feature , using names to identify the commit type then merginng the features into ```develop``` branch. After testing, its time to update the main branch, merging the ```develop``` with ```main```.
 
-## Commits ✅:
+## Programming practices🧑‍💻:
 
-My commits in projects are made using the following formula:
+- Variables: always low case, no accents and different words separated by _ caracter
+- Branch Names: always low case, with different words separated by _ caracter.  => ```<pourpose>_branch```
+
+## Github Practices 🐱:
+
+- Github repository names: always low case, with different words separated by _ caracter.
+- READ.md always on [this](https://github.com/FernandoSchett/github_readme_template) template.
+- Images always uploaded at _Issues_ section on repository associeted to the project. Issue name always closed and on ```<image_name>.png``` model.
+ 
+## Commits && Pull Requests ✅:
+
+My commits and pull requests in projects are made using the following formula:
 
 	git commit -m '[EMOJI SEMANTIC]: description message'
 

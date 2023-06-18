@@ -16,6 +16,9 @@ Thank you for visiting my GitHub profile! I'm excited to connect with fellow dev
 
 ## Work Process 💪:
 
+
+I am well-versed in utilizing task and project management tools like [Trello](https://trello.com) and [Notion](https://www.notion.so) to effectively apply agile methodologies such as Kanban and Scrum. Additionally, I am adept at working remotely with a flexible schedule, which is my preferred approach. However, I am open to adapting my work style if the situation requires it.
+
 Always developing on own branch feature , using names to identify the commit type then merginng the features into ```develop``` branch. After testing, its time to update the main branch, merging the ```develop``` into ```main```.
 
 ## Programming practices🧑‍💻:

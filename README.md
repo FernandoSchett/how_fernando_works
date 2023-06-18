@@ -60,262 +60,193 @@ _Emojis ideas and meanings where taken in [this project](https://gitmoji.dev/)._
 <table>
   <thead>
     <tr>
-      <th>Emoji</th>
-      <th>Meaning</th>
+      <th align="center">Emoji</th>
+      <th align="center">Meaning</th>
+      <th align="center">Emoji</th>
+      <th align="center">Meaning</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>🎨</td>
-      <td>Improving structure / format of the code.</td>
+      <td align="center">🎨</td>
+      <td align="center">Improving structure / format of the code.</td>
+      <td align="center">⚡️</td>
+      <td align="center">Improving performance.</td>
     </tr>
     <tr>
-      <td>⚡️</td>
-      <td>Improving performance.</td>
+      <td align="center">🔥</td>
+      <td align="center">Removing code or files.</td>
+      <td align="center">🐛</td>
+      <td align="center">Fixing a bug.</td>
     </tr>
     <tr>
-      <td>🔥</td>
-      <td>Removing code or files.</td>
+      <td align="center">🚑</td>
+      <td align="center">Critical hotfix.</td>
+      <td align="center">✨</td>
+      <td align="center">Introducing new features.</td>
     </tr>
     <tr>
-      <td>🐛</td>
-      <td>Fixing a bug.</td>
+      <td align="center">📝</td>
+      <td align="center">Writing docs.</td>
+      <td align="center">🚀</td>
+      <td align="center">Deploying stuff.</td>
     </tr>
     <tr>
-      <td>🚑</td>
-      <td>Critical hotfix.</td>
+      <td align="center">💄</td>
+      <td align="center">Updating the UI and style files.</td>
+      <td align="center">🎉</td>
+      <td align="center">Initial commit.</td>
     </tr>
     <tr>
-      <td>✨</td>
-      <td>Introducing new features.</td>
+      <td align="center">✅</td>
+      <td align="center">Updating tests.</td>
+      <td align="center">🔒</td>
+      <td align="center">Fixing security issues.</td>
     </tr>
     <tr>
-      <td>📝</td>
-      <td>Writing docs.</td>
+      <td align="center">🍎</td>
+      <td align="center">Fixing something on macOS.</td>
+      <td align="center">🐧</td>
+      <td align="center">Fixing something on Linux.</td>
     </tr>
     <tr>
-      <td>🚀</td>
-      <td>Deploying stuff.</td>
+      <td align="center">🏁</td>
+      <td align="center">Fixing something on Windows.</td>
+      <td align="center">🤖</td>
+      <td align="center">Fixing something on Android.</td>
     </tr>
     <tr>
-      <td>💄</td>
-      <td>Updating the UI and style files.</td>
+      <td align="center">🍏</td>
+      <td align="center">Fixing something on iOS.</td>
+      <td align="center">🔖</td>
+      <td align="center">Releasing / Version tags.</td>
     </tr>
     <tr>
-      <td>🎉</td>
-      <td>Initial commit.</td>
+      <td align="center">🚨</td>
+      <td align="center">Removing linter warnings.</td>
+      <td align="center">🚧</td>
+      <td align="center">Work in progress.</td>
     </tr>
     <tr>
-      <td>✅</td>
-      <td>Updating tests.</td>
+      <td align="center">💚</td>
+      <td align="center">Fixing CI Build.</td>
+      <td align="center">⬇️</td>
+      <td align="center">Downgrading dependencies.</td>
     </tr>
     <tr>
-      <td>🔒</td>
-      <td>Fixing security issues.</td>
+      <td align="center">⬆️</td>
+      <td align="center">Upgrading dependencies.</td>
+      <td align="center">📌</td>
+      <td align="center">Pinning dependencies to specific versions.</td>
     </tr>
     <tr>
-      <td>🍎</td>
-      <td>Fixing something on macOS.</td>
+      <td align="center">👷</td>
+      <td align="center">Adding CI build system.</td>
+      <td align="center">📈</td>
+      <td align="center">Adding analytics or tracking code.</td>
     </tr>
     <tr>
-      <td>🐧</td>
-      <td>Fixing something on Linux.</td>
+      <td align="center">♻️</td>
+      <td align="center">Refactoring code.</td>
+      <td align="center">🐳</td>
+      <td align="center">Work about Docker.</td>
     </tr>
     <tr>
-      <td>🏁</td>
-      <td>Fixing something on Windows.</td>
+      <td align="center">➕</td>
+      <td align="center">Adding a dependency.</td>
+      <td align="center">➖</td>
+      <td align="center">Removing a dependency.</td>
     </tr>
     <tr>
-      <td>🤖</td>
-      <td>Fixing something on Android.</td>
+      <td align="center">🔧</td>
+      <td align="center">Changing configuration files.</td>
+      <td align="center">🌐</td>
+      <td align="center">Internationalization and localization.</td>
     </tr>
     <tr>
-      <td>🍏</td>
-      <td>Fixing something on iOS.</td>
+      <td align="center">✏️</td>
+      <td align="center">Fixing typos.</td>
+      <td align="center">💩</td>
+      <td align="center">Writing bad code that needs to be improved.</td>
     </tr>
     <tr>
-      <td>🔖</td>
-      <td>Releasing / Version tags.</td>
+      <td align="center">⏪</td>
+      <td align="center">Reverting changes.</td>
+      <td align="center">🔀</td>
+      <td align="center">Merging branches.</td>
     </tr>
     <tr>
-      <td>🚨</td>
-      <td>Removing linter warnings.</td>
+      <td align="center">📦</td>
+      <td align="center">Updating compiled files or packages.</td>
+      <td align="center">👽</td>
+      <td align="center">Updating code due to external API changes.</td>
     </tr>
     <tr>
-      <td>🚧</td>
-      <td>Work in progress.</td>
+      <td align="center">🚚</td>
+      <td align="center">Moving or renaming files.</td>
+      <td align="center">🔥</td>
+      <td align="center">Removing code or files.</td>
     </tr>
     <tr>
-      <td>💚</td>
-      <td>Fixing CI Build.</td>
+      <td align="center">💥</td>
+      <td align="center">Introducing breaking changes.</td>
+      <td align="center">🙈</td>
+      <td align="center">Adding or updating a .gitignore file.</td>
     </tr>
     <tr>
-      <td>⬇️</td>
-      <td>Downgrading dependencies.</td>
+      <td align="center">🚧</td>
+      <td align="center">Work in progress.</td>
+      <td align="center">💡</td>
+      <td align="center">Documenting source code.</td>
     </tr>
     <tr>
-      <td>⬆️</td>
-      <td>Upgrading dependencies.</td>
+      <td align="center">🍱</td>
+      <td align="center">Adding or updating assets.</td>
+      <td align="center">🔒</td>
+      <td align="center">Fixing security issues.</td>
     </tr>
     <tr>
-      <td>📌</td>
-      <td>Pinning dependencies to specific versions.</td>
+      <td align="center">🐧</td>
+      <td align="center">Fixing something on Linux.</td>
+      <td align="center">🚀</td>
+      <td align="center">Deploying stuff.</td>
     </tr>
     <tr>
-      <td>👷</td>
-      <td>Adding CI build system.</td>
+      <td align="center">⚙️</td>
+      <td align="center">Changing configuration files.</td>
+      <td align="center">💬</td>
+      <td align="center">Updating text and literals.</td>
     </tr>
     <tr>
-      <td>📈</td>
-      <td>Adding analytics or tracking code.</td>
+      <td align="center">🔍</td>
+      <td align="center">Improving SEO.</td>
+      <td align="center">🚩</td>
+      <td align="center">Adding, updating, or removing feature flags.</td>
     </tr>
     <tr>
-      <td>♻️</td>
-      <td>Refactoring code.</td>
+      <td align="center">🔧</td>
+      <td align="center">Changing configuration files.</td>
+      <td align="center">🔨</td>
+      <td align="center">Fixing something on Windows.</td>
     </tr>
     <tr>
-      <td>🐳</td>
-      <td>Work about Docker.</td>
+      <td align="center">📇</td>
+      <td align="center">Adding or updating metadata.</td>
+      <td align="center">✅</td>
+      <td align="center">Updating tests.</td>
     </tr>
     <tr>
-      <td>➕</td>
-      <td>Adding a dependency.</td>
-    </tr>
-    <tr>
-      <td>➖</td>
-      <td>Removing a dependency.</td>
-    </tr>
-    <tr>
-      <td>🔧</td>
-      <td>Changing configuration files.</td>
-    </tr>
-    <tr>
-      <td>🌐</td>
-      <td>Internationalization and localization.</td>
-    </tr>
-    <tr>
-      <td>✏️</td>
-      <td>Fixing typos.</td>
-    </tr>
-    <tr>
-      <td>💩</td>
-      <td>Writing bad code that needs to be improved.</td>
-    </tr>
-    <tr>
-      <td>⏪</td>
-      <td>Reverting changes.</td>
-    </tr>
-    <tr>
-      <td>🔀</td>
-      <td>Merging branches.</td>
-    </tr>
-    <tr>
-      <td>📦</td>
-      <td>Updating compiled files or packages.</td>
-    </tr>
-    <tr>
-      <td>👽</td>
-      <td>Updating code due to external API changes.</td>
-    </tr>
-    <tr>
-      <td>🚚</td>
-      <td>Moving or renaming files.</td>
-    </tr>
-    <tr>
-      <td>📄</td>
-      <td>Adding or updating license.</td>
-    </tr>
-    <tr>
-      <td>💥</td>
-      <td>Introducing breaking changes.</td>
-    </tr>
-    <tr>
-      <td>🍱</td>
-      <td>Adding or updating assets.</td>
-    </tr>
-    <tr>
-      <td>👌</td>
-      <td>Updating code due to code review changes.</td>
-    </tr>
-    <tr>
-      <td>♿️</td>
-      <td>Improving accessibility.</td>
-    </tr>
-    <tr>
-      <td>💡</td>
-      <td>Documenting source code.</td>
-    </tr>
-    <tr>
-      <td>🍻</td>
-      <td>Writing code drunkenly.</td>
-    </tr>
-    <tr>
-      <td>💬</td>
-      <td>Updating text and literals.</td>
-    </tr>
-    <tr>
-      <td>🗃</td>
-      <td>Performing database related changes.</td>
-    </tr>
-    <tr>
-      <td>🔊</td>
-      <td>Adding logs.</td>
-    </tr>
-    <tr>
-      <td>🔇</td>
-      <td>Removing logs.</td>
-    </tr>
-    <tr>
-      <td>👥</td>
-      <td>Adding contributor(s).</td>
-    </tr>
-    <tr>
-      <td>🚸</td>
-      <td>Improving user experience / usability.</td>
-    </tr>
-    <tr>
-      <td>🏗</td>
-      <td>Making architectural changes.</td>
-    </tr>
-    <tr>
-      <td>📱</td>
-      <td>Working on responsive design.</td>
-    </tr>
-    <tr>
-      <td>🤡</td>
-      <td>Mocking things.</td>
-    </tr>
-    <tr>
-      <td>🥚</td>
-      <td>Adding an easter egg.</td>
-    </tr>
-    <tr>
-      <td>🙈</td>
-      <td>Adding or updating a .gitignore file.</td>
-    </tr>
-    <tr>
-      <td>📸</td>
-      <td>Adding or updating snapshots.</td>
-    </tr>
-    <tr>
-      <td>⚗</td>
-      <td>Experimenting new things.</td>
-    </tr>
-    <tr>
-      <td>🔍</td>
-      <td>Improving SEO.</td>
-    </tr>
-    <tr>
-      <td>☸️</td>
-      <td>Work about Kubernetes.</td>
-    </tr>
-    <tr>
-      <td>🏷️</td>
-      <td>Adding or updating types (Flow, TypeScript).</td>
+      <td align="center">👽</td>
+      <td align="center">Updating code due to external API changes.</td>
+      <td align="center">📝</td>
+      <td align="center">Writing docs.</td>
     </tr>
   </tbody>
 </table>
+
 </details>
+
+
 
 ## Tools I use 🛠️: 
 

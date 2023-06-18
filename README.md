@@ -20,13 +20,13 @@ Always developing on own branch feature , using names to identify the commit typ
 
 ## Programming practices🧑‍💻:
 
-- Variables: always low case, no accents and different words separated by _ caracter
-- Branch Names: always low case, with different words separated by _ caracter.  => ```<pourpose>_branch```
+- Variables: always low case, no accents and different words separated by ```_``` caracter
+- Branch Names: always low case, with different words separated by ```_``` caracter.  => ```<pourpose>_branch```
 
 ## Github Practices 🐱:
 
-- Github repository names: always low case, with different words separated by _ caracter.
-- READ.md always on [this](https://github.com/FernandoSchett/github_readme_template) template.
+- Github repository names: always low case, with different words separated by ```_``` caracter.
+- ```READ.md``` always on [this](https://github.com/FernandoSchett/github_readme_template) template.
 - Images always uploaded at _Issues_ section on repository associeted to the project. Issue name always closed and on ```<image_name>.png``` model.
  
 ## Commits && Pull Requests ✅:

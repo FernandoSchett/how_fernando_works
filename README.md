@@ -8,7 +8,7 @@
 
 ## About 🤔:
 
-Here, you'll find my workflow, commits and other things description guidelines on GitHub. It covers topics such as my preferred workflow, commit message guidelines, and best practices. Explore the file for a comprehensive understanding of how I work on GitHub.
+Here, you'll find my workflow, commits and other things description guidelines on GitHub. It covers topics such as my preferred workflow, commit message guidelines, and best practices. Explore the file for a comprehensive understanding of how I work on GitHub. Remember that these are some rules and standars that I have established and prefer. Sometimes, I may forget or deviate from the standard if the project requires it or due to lack of attention.
 
 ### Let's Connect 😎 👍!
 

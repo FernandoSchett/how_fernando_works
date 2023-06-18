@@ -32,7 +32,7 @@ Besides that, i do really like 🟠orange🟠 color, I will always strive to inc
 
 - Github repository names: english, always low case, with different words separated by ```_``` caracter.
 - ```READ.md``` always on [this](https://github.com/FernandoSchett/github_readme_template) template.
-- Images always uploaded at _Issues_ section on repository associeted to the project. Issue name always closed and on ```<image_name>.png``` model.
+- Images always uploaded at _Issues_ section on repository associeted to the project. Always closed, issue name on ```<image_name>.png``` model.
  
 ## Commits && Pull Requests ✅:
 

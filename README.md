@@ -20,7 +20,7 @@ Always developing on own branch feature , using names to identify the commit typ
 
 ## Programming practices🧑‍💻:
 
-- Variables: english, always low case, no accents and different words separated by ```_``` caracter
+- Variables, Functions and Classes: english, always low case, no accents and different words separated by ```_``` caracter
 - Branch Names: english, always low case, with different words separated by ```_``` caracter.  => ```<pourpose>_branch```
 
 ## Github Practices 🐱:

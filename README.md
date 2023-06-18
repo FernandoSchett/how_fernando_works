@@ -21,6 +21,8 @@ I am well-versed in utilizing task and project management tools like [Trello](ht
 
 Always developing on own branch feature , using names to identify the commit type then merginng the features into ```develop``` branch. After testing, its time to update the main branch, merging the ```develop``` into ```main```.
 
+Besides that, i do really like 🟠orange🟠 color, I will always strive to incorporate my favorite colors, #FE4407 and #fb6b04, into my projects.
+
 ## Programming practices🧑‍💻:
 
 - Variables, Methods Functions and Classes: english, always low case, no accents and different words separated by ```_``` caracter.
